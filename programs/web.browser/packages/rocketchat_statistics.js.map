@@ -1,0 +1,1 @@
+{"version":3,"sources":["meteor://💻app/packages/rocketchat:statistics/lib/rocketchat.js"],"names":["RocketChat","statistics"],"mappings":";;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;AAAAA,WAAWC,UAAX,GAAwB,EAAxB,+C","file":"/packages/rocketchat_statistics.js","sourcesContent":["RocketChat.statistics = {};\n"]}
