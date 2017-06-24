@@ -1,1 +1,0 @@
-{"version":3,"sources":["meteor://💻app/packages/rocketchat:smarsh-connector/lib/rocketchat.js"],"names":["RocketChat","smarsh"],"mappings":";;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;AAAAA,WAAWC,MAAX,GAAoB,EAApB,mD","file":"/packages/rocketchat_smarsh-connector.js","sourcesContent":["RocketChat.smarsh = {};\n"]}
