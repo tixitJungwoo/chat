@@ -1,3 +1,5 @@
+rm -rf lilychat.tar.gz
+git pull
 cat lilychat.tar.gz* > lilychat.tar.gz
 tar xzvf lilychat.tar.gz
 cd ./bundle/programs/server
